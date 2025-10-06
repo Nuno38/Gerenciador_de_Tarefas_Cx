@@ -1,7 +1,12 @@
 <h1>Gerenciador de Tarefas.</h1>
 
 <H2>Um projeto simples de gerenciamento de tarefas feito com HTML, CSS e JavaScript puro, sem banco de dados.
-As tarefas são armazenadas no localStorage do navegador.</H2>
+As tarefas são armazenadas no localStorage do navegador. <br>
+ <br>
+https://nuno38.github.io/Gerenciador_de_Tarefas_Cx/
+</H2>
+
+
 
  °Funcionalidades<br>
 Adicionar tarefas com data de criação automática.<br>
@@ -50,3 +55,5 @@ Ao marcar concluída → tarefa fica vermelha e aparece alerta de confirmação.
 
  °Observação
 Este projeto é apenas um protótipo didático.
+
+
